@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="programs.Student"/>
+    <fullyQualifiedTypeName name="programs.Main"/>
+    <fullyQualifiedTypeName name="com.Vehicle"/>
+    <fullyQualifiedTypeName name="multilevel.Department"/>
+    <fullyQualifiedTypeName name="hierarchial.Car"/>
+    <fullyQualifiedTypeName name="hierarchial.Bike"/>
+    <fullyQualifiedTypeName name="hierarchial.Vehicle"/>
+    <fullyQualifiedTypeName name="org.Employee"/>
+    <fullyQualifiedTypeName name="chaining.Car"/>
+    <fullyQualifiedTypeName name="chaining.Father"/>
+    <fullyQualifiedTypeName name="chaining.Employee"/>
+    <fullyQualifiedTypeName name="com.javabean.Employee"/>
+    <fullyQualifiedTypeName name="com.javabean.Student"/>
+    <fullyQualifiedTypeName name="com.javabean.Car"/>
+    <fullyQualifiedTypeName name="com.User"/>
+    <fullyQualifiedTypeName name="com.Faltu"/>
+    <fullyQualifiedTypeName name="java.lang.Record"/>
+    <fullyQualifiedTypeName name="com.ReserveBank"/>
+    <fullyQualifiedTypeName name="com.AccountHolder"/>
+    <fullyQualifiedTypeName name="com.Jspiders"/>
+    <fullyQualifiedTypeName name="com.Qspiders"/>
+    <fullyQualifiedTypeName name="com.Employee"/>
+    <fullyQualifiedTypeName name="com.Person"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.Laptop"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+</qualifiedTypeNameHistroy>

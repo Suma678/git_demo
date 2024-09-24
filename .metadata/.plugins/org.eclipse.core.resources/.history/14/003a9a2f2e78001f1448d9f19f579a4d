@@ -1,0 +1,13 @@
+package com;
+
+class Laptop {
+
+	String brand;
+	int cost;
+	String ramSize;
+	
+	
+	
+	
+	
+}

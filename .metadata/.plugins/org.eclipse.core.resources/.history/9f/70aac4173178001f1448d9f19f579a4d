@@ -1,0 +1,14 @@
+package com;
+
+public class Customer {
+	
+	public static void main(String[] args) {
+	
+		Laptop l1 = new Laptop("HP", 2000, "4GB");
+		Laptop l2 = new Laptop("Dell", 9000, "8GB");
+		Laptop l3 = new Laptop("Lenovo",4000, "16GB");
+		Laptop l4 = new Laptop("Acer", 7000, "2GB");
+		
+		
+	}
+}
